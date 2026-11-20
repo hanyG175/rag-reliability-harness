@@ -1,0 +1,4 @@
+{"id": "ex-001", "type": "answerable", "question": "Which port does the example service listen on by default?", "expected_answer": "8080", "source_passage_id": "example-doc-1#chunk-3"}
+{"id": "ex-002", "type": "unanswerable", "question": "Who wrote the first version of the example service?", "expected_answer": null, "source_passage_id": null}
+{"id": "ex-003", "type": "false_premise", "question": "Since the example service was removed in version 2, what replaced it?", "expected_answer": "The service was not removed; the premise is false.", "source_passage_id": "example-doc-2#chunk-1"}
+{"id": "ex-004", "type": "out_of_scope", "question": "What is a good recipe for couscous?", "expected_answer": null, "source_passage_id": null}
